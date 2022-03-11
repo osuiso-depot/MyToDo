@@ -4,4 +4,4 @@ contact_links:
     about: made by config.yml
     # edit {username} and {repo} for your environment
     url: https://github.com/osuiso-depot/MyToDo/issues/new?template=custom.md&projects=osuiso-depot%2FToDo%2F1&labels=ToDo
-
+    # MyToDo is the name of repositoty that is included oneself
